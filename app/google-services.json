@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "106247500704",
+    "project_id": "fowlfind-ce798",
+    "storage_bucket": "fowlfind-ce798.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106247500704:android:70a796b2756d91801e2ac5",
+        "android_client_info": {
+          "package_name": "com.FowlFind.googlemaps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFiYDJUzgjfnl_myiDz_qQkMeIMjWG4Hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
